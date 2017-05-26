@@ -31,6 +31,10 @@ What can't it read?  .mxd files are map files created by ESRI's proprietary soft
 
 # Navigating the Interface
 
+# Exercises
+## Download the Exercise Data
+Download the exercise data at the [QGIS Training Manual Site](http://docs.qgis.org/2.14/en/docs/training_manual/foreword/foreword.html#data)
+
 
 ### Resources to borrow from:
 
