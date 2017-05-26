@@ -14,15 +14,22 @@ This workshop will introduce participants to QGIS, a powerful open source GIS so
 ## About QGIS:
 QGIS is a free and open source desktop GIS software.  Since its initial development in 2002, QGIS has become one of the industry's leading software options for GIS.  QGIS is used by researchers across the world as well as by many California and Federal agencies.  QGIS allows users to access a number of other GIS software packages through it's graphical user interface including GRASS as well as user-contributed scripts and plug-ins.
 
+QGIS runs on:
+
+* Windows
+* Mac
+* Linux
+* Android
+
 ## Are you new to GIS?
-If you've never taken a GIS course before and aren't ready to take a class (UCD's LDA 150 is great if you **DO** want a class... Fall & Spring quarters...), check out [A Gentle Introduction to GIS](http://docs.qgis.org/2.14/en/docs/gentle_gis_introduction/)
+This workshop is not designed to teach you everything you need to know to do GIS effectively.  Just like you can't learn stats in an hour, a one-hour workshop can't teach you GIS.  UC Davis' LDA 150 is a great class and is taught most Fall & Spring quarters.  The UC Davis Extension also offers courses.  If you aren't ready to take a class or like to learn on your own, check out [A Gentle Introduction to GIS](http://docs.qgis.org/2.14/en/docs/gentle_gis_introduction/)
 
 # Data & Files
 QGIS can read and write most **data** files that you've used in other GIS software packages.  Shapefiles, GeoTIFF, MrSIDD, etc. should all work as expected.  QGIS has the advantage of being able to read and write many open formats, most notably GeoJSON, which is a single file and human-readable, making it an excellent format for exchanging vector data.
 
 What can't it read?  .mxd files are map files created by ESRI's proprietary software ArcGIS.  This is a file that points to datafiles on your computer and stores information about how you want to display the data.  It does not contain the data itself.  QGIS has a similar file format that ArcGIS cannot open with the extension .qgs
 
-
+# Navigating the Interface
 
 
 ### Resources to borrow from:
