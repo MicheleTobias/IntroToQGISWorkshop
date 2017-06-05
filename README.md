@@ -9,6 +9,12 @@ Bring your laptop with QGIS (2.18) installed - visit QGIS.org for free download
 
 This workshop will introduce participants to QGIS, a powerful open source GIS software.  The workshop will cover typical basic GIS software workflow needs such as loading data, changing the way data is displayed, and where to find analysis tools.  In addition, participants will learn strategies for finding help with QGIS and tutorials for home learning. This workshop is not intended to teach all the concepts of GIS from the beginning (it's only an hour!), but rather to introduce those already familiar with the concepts of GIS to a new software option for applying those concepts.
 
+## Table of Contents
+1. Introduction
+1. Demonstration: The Interface
+1. Hands On: Exercises
+1. Home Learning
+
 # Introduction
 
 ## About QGIS:
@@ -24,7 +30,7 @@ QGIS runs on:
 ## Are you new to GIS?
 This workshop is not designed to teach you everything you need to know to do GIS effectively.  Just like you can't learn stats in an hour, a one-hour workshop can't teach you GIS.  UC Davis' LDA 150 is a great class and is taught most Fall & Spring quarters.  The UC Davis Extension also offers courses.  If you aren't ready to take a class or like to learn on your own, check out [A Gentle Introduction to GIS](http://docs.qgis.org/2.14/en/docs/gentle_gis_introduction/)
 
-# Data & Files
+## Data & Files
 QGIS can read and write most **data** files that you've used in other GIS software packages.  Shapefiles, GeoTIFF, MrSIDD, etc. should all work as expected.  QGIS has the advantage of being able to read and write many open formats, most notably GeoJSON, which is a single file and human-readable, making it an excellent format for exchanging vector data.
 
 What can't it read?  .mxd files are map files created by ESRI's proprietary software ArcGIS.  This is a file that points to datafiles on your computer and stores information about how you want to display the data.  It does not contain the data itself.  QGIS has a similar file format that ArcGIS cannot open with the extension .qgs
@@ -43,7 +49,7 @@ What can't it read?  .mxd files are map files created by ESRI's proprietary soft
 
 See Also: [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
 
-# ON YOUR OWN: Exercises
+# HANDS ON: Exercises
 
 1.  Download the exercise data at the [QGIS Training Manual Site](http://docs.qgis.org/2.14/en/docs/training_manual/foreword/foreword.html#data)
 1.  [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
