@@ -32,10 +32,14 @@ What can't it read?  .mxd files are map files created by ESRI's proprietary soft
 # DEMONSTRATION: Navigating the Interface
 
 1.  Loading Data: Vector, Raster, CSV, Database, etc.
+1.  Saving A Project
 1.  Project Projection
 1.  Changing Style/"Symbology"
 1.  Analysis Tools
-1.  Saving A Project vs. Saving Data
+    *  Menus
+    *  Processing Toolbox
+    *  Plugins
+
 
 See Also: [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
 
@@ -44,6 +48,7 @@ See Also: [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/doc
 1.  Download the exercise data at the [QGIS Training Manual Site](http://docs.qgis.org/2.14/en/docs/training_manual/foreword/foreword.html#data)
 1.  [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
 1.  [QGIS Training Manual: Creating a Basic Map](http://docs.qgis.org/2.14/en/docs/training_manual/basic_map/index.html) (Skip the section about the custom SVG fill.)
+1.  Explore the [QGIS Training Manual](http://docs.qgis.org/2.14/en/docs/training_manual/index.html) for topics of particular interest to you.
 
 # Home Learning:
 The learning doesn't have to end when you leave the workshop!  We encourage you to continue to explore what QGIS has to offer and to find tools to help you with your analyses.
