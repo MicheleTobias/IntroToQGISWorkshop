@@ -56,6 +56,15 @@ See Also: [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/doc
 1.  [QGIS Training Manual: Creating a Basic Map](http://docs.qgis.org/2.14/en/docs/training_manual/basic_map/index.html) (Skip the section about the custom SVG fill.)
 1.  Explore the [QGIS Training Manual](http://docs.qgis.org/2.14/en/docs/training_manual/index.html) for topics of particular interest to you.
 
+# UC Davis GIS Community
+The GIS community at UC Davis centers around the Geospatial email list.  It's populated by campus affiliates at any level and with any interest in geospatial tools (GIS, remote sensing, drones, etc.).  It's for announcements and questions.
+
+How to Sign Up:
+1.  Go to: https://lists.ucdavis.edu/sympa/
+2.  Log in with your UC Davis credentials.
+3.  Search: geospatial
+4.  Click the subscribe link.
+
 # Home Learning:
 The learning doesn't have to end when you leave the workshop!  We encourage you to continue to explore what QGIS has to offer and to find tools to help you with your analyses.
 
