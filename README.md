@@ -12,7 +12,7 @@ This workshop will introduce participants to QGIS, a powerful open source GIS so
 # Introduction
 
 ## About QGIS:
-QGIS is a free and open source desktop GIS software.  Since its initial development in 2002, QGIS has become one of the industry's leading software options for GIS.  QGIS is used by researchers across the world as well as by many California and Federal agencies.  QGIS allows users to access a number of other GIS software packages through it's graphical user interface including GRASS as well as user-contributed scripts and plug-ins.
+QGIS (previously called Quantum GIS) is a free and open source desktop GIS software.  Since its initial development in 2002, QGIS has become one of the industry's leading software options for GIS.  QGIS is used by researchers across the world as well as by many California and Federal agencies.  QGIS allows users to access a number of other GIS software packages through it's graphical user interface including GRASS as well as user-contributed scripts and plug-ins.
 
 QGIS runs on:
 
@@ -31,15 +31,55 @@ What can't it read?  .mxd files are map files created by ESRI's proprietary soft
 
 # Navigating the Interface
 
+1.  Loading Data: Vector, Raster, CSV, Database, etc.
+1.  Changing Style/"Symbology"
+1.  Analysis Tools
+1.  See Also: [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
+
 # Exercises
 ## Download the Exercise Data
 Download the exercise data at the [QGIS Training Manual Site](http://docs.qgis.org/2.14/en/docs/training_manual/foreword/foreword.html#data)
 
 
-### Resources to borrow from:
+
+# Home Learning:
+The learning doesn't have to end when you leave the workshop!  We encourage you to continue to explore what QGIS has to offer and to find tools to help you with your analyses.
+
+## Official 
+
+Manual, Training Guide, Gentle Introduction to GIS [QGIS Docs](http://qgis.org/en/docs/index.html)
+
+## Blogs & Online Learning
+
+Gretchen Peterson: http://www.gretchenpeterson.com/blog/ 
+
+Anita Graser: https://anitagraser.com/
+
+Nyall Dawson: http://nyalldawson.net
+
+Nathan Woodrow: https://nathanw.net/
+
+And many more on [QGIS Planet](http://planet.qgis.org/planet/)
+
+
+## Books
+
+Learning QGIS
+
+QGIS 2 Cookbook
+
+QGIS Map Design
+
+The Geospatial Desktop
+
+QGIS By Example
+
+QGIS Python Programming Cookbook
+
+Mastering QGIS
+
+... QGIS maintained [list of books](https://www.qgis.org/en/site/forusers/books/index.html) in print, ebook, or both.
 
 
 
-[QGIS Training Manual](http://docs.qgis.org/2.14/en/docs/training_manual/index.html)
-
-[Randal Hale's Intro to QGIS Slides](https://2016.foss4g-na.org/sites/default/files/slides/QGIS%20Workshop.pdf)
+Another Useful Presentation: [Randal Hale's Intro to QGIS Slides](https://2016.foss4g-na.org/sites/default/files/slides/QGIS%20Workshop.pdf)
