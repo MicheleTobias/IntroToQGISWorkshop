@@ -29,18 +29,21 @@ QGIS can read and write most **data** files that you've used in other GIS softwa
 
 What can't it read?  .mxd files are map files created by ESRI's proprietary software ArcGIS.  This is a file that points to datafiles on your computer and stores information about how you want to display the data.  It does not contain the data itself.  QGIS has a similar file format that ArcGIS cannot open with the extension .qgs
 
-# Navigating the Interface
+# DEMONSTRATION: Navigating the Interface
 
 1.  Loading Data: Vector, Raster, CSV, Database, etc.
+1.  Project Projection
 1.  Changing Style/"Symbology"
 1.  Analysis Tools
-1.  See Also: [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
+1.  Saving A Project vs. Saving Data
 
-# Exercises
-## Download the Exercise Data
-Download the exercise data at the [QGIS Training Manual Site](http://docs.qgis.org/2.14/en/docs/training_manual/foreword/foreword.html#data)
+See Also: [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
 
+# ON YOUR OWN: Exercises
 
+1.  Download the exercise data at the [QGIS Training Manual Site](http://docs.qgis.org/2.14/en/docs/training_manual/foreword/foreword.html#data)
+1.  [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
+1.  [QGIS Training Manual: Creating a Basic Map](http://docs.qgis.org/2.14/en/docs/training_manual/basic_map/index.html) (Skip the section about the custom SVG fill.)
 
 # Home Learning:
 The learning doesn't have to end when you leave the workshop!  We encourage you to continue to explore what QGIS has to offer and to find tools to help you with your analyses.
