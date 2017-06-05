@@ -13,6 +13,7 @@ This workshop will introduce participants to QGIS, a powerful open source GIS so
 1. Introduction
 1. Demonstration: The Interface
 1. Hands On: Exercises
+1. UC Davis GIS Community
 1. Home Learning
 
 # Introduction
