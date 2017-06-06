@@ -18,6 +18,17 @@ This workshop will introduce participants to QGIS, a powerful open source GIS so
 
 # Introduction
 
+## About the UC Davis Library's Data Management Program
+The Data Management Program works to ensure key data are easily discoverable and accessible for the benefit of UC Davis researchers in all disciplines.
+ *  Data Manaement Plans
+ *  Metadata & Describing Data
+ *  Finding Data
+ *  Sharing & Preserving Data
+ *  Geospatial Visualizations & Maps for Publication
+ 
+Visit us online: http://data.ucdavis.edu
+
+
 ## About QGIS:
 QGIS (previously called Quantum GIS) is a free and open source desktop GIS software.  Since its initial development in 2002, QGIS has become one of the industry's leading software options for GIS.  QGIS is used by researchers across the world as well as by many California and Federal agencies.  QGIS allows users to access a number of other GIS software packages through it's graphical user interface including GRASS as well as user-contributed scripts and plug-ins.
 
