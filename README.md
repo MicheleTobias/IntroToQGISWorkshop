@@ -120,5 +120,5 @@ Mastering QGIS
 ... QGIS maintained [list of books](https://www.qgis.org/en/site/forusers/books/index.html) in print, ebook, or both.
 
 
-
+## Other Resources
 Another Useful Presentation: [Randal Hale's Intro to QGIS Slides](https://2016.foss4g-na.org/sites/default/files/slides/QGIS%20Workshop.pdf)
