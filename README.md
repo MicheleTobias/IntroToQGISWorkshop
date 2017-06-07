@@ -32,6 +32,7 @@ The Data Management Program works to ensure key data are easily discoverable and
  *  Finding Data
  *  Sharing & Preserving Data
  *  Geospatial Visualizations & Maps for Publication
+ *  GIS Drop-In Hours: Wednesdays 2:00-4:00 Shields Map Room
  
 Visit us online: http://data.ucdavis.edu
 
