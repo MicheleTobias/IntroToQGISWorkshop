@@ -55,6 +55,7 @@ What can't it read?  .mxd files are map files created by ESRI's proprietary soft
 # DEMONSTRATION: Navigating the Interface
 
 1.  Loading Data: Vector, Raster, CSV, Database, etc.
+1.  Attribute Table
 1.  Saving A Project
 1.  Project Projection
 1.  Changing Style/"Symbology"
