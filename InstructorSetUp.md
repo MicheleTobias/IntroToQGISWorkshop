@@ -4,6 +4,7 @@ These are the things the instructor should do before the presentation.
 ## Bring to the Workshop
 
 1.  Handouts & Information Fliers
+    *  Sign-In Sheet
     *  Evaluation Forms
     *  DMP Fliers
     *  Spatial Data Services Fliers
