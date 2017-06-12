@@ -68,6 +68,13 @@ What can't it read?  .mxd files are map files created by ESRI's proprietary soft
 See Also: [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
 
 # HANDS ON: Exercises
+You'll use the QGIS Trainin Manual's exercises to learn about QGIS and get some experience operating the interface.  Note that these exercises have 3 levels of difficulty that are color-coded:
+
+    *  Basic: Green Label
+    *  Intermediate: Blue Label
+    *  Advanced: Red Label
+    
+Definitely try the green/basic exercises, and feel free to skip the blue/intermediate and red/advanced exercises as you see fit for your experience and interest.
 
 1.  Download the exercise data at the [QGIS Training Manual Site](http://docs.qgis.org/2.14/en/docs/training_manual/foreword/foreword.html#data)
 1.  [QGIS Training Manual: The Interface](http://docs.qgis.org/2.14/en/docs/training_manual/introduction/index.html)
